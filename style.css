@@ -28,16 +28,14 @@ input {
   margin: 20px auto;
   height: 40px;
   width: 50%;
+  padding: 0 5px 0 5px;
   display: block;
   border-radius: 10px;
   border: 1px solid rgb(216, 216, 216);
 }
-input:focus{
+input:focus {
   outline: none;
-
-
-
-} 
+}
 .button {
   color: white;
   border: none;
