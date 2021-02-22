@@ -36,7 +36,7 @@ input {
 }
 input:focus {
   outline: none;
-  border-color: aqua;
+  border-color: rgb(1, 211, 211);
 }
 .button {
   color: white;
