@@ -47,7 +47,7 @@ input:focus {
   color: white;
   border: none;
   background-color: rgb(81, 81, 162);
-  transition: all 1s linear;
+  transition: all .1s linear;
 }
 .button:hover {
   background-color: rgb(105, 105, 204);
